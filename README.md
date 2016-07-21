@@ -24,7 +24,8 @@ other support files and libraries
 
 To Install:
 
-MOVE all of the directories in the libraries folder into your Arduino libraries folder and then restart the Arduino IDE.
+1) Unzip libraries.zip
+2) MOVE all of the directories in the libraries folder into your Arduino libraries folder and then restart the Arduino IDE.
 
 Additional library:
 
